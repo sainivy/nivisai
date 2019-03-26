@@ -5,3 +5,5 @@ git pull
 git rebase 
 
 
+git diff
+fetch
