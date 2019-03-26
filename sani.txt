@@ -5,5 +5,11 @@ git pull
 git rebase 
 
 
+<<<<<<< HEAD
 git diff
 fetch
+=======
+git revert
+git stash
+
+>>>>>>> e91a8e5f43183c7549b3ee028a945f2062c655e0
